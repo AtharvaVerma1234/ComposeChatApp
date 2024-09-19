@@ -16,6 +16,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ComposeChatApplication"
+rootProject.name = "ComposeNoteApplication"
 include(":app")
  

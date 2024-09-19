@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.vermaatharva.composechatapplication"
+    namespace = "com.vermaatharva.composenoteapplication"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.vermaatharva.composechatapplication"
+        applicationId = "com.vermaatharva.composenoteapplication"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
